@@ -1,0 +1,47 @@
+body{
+	background: url(../image/bg-body.jpg) repeat;
+	width:100%;
+	height:100%;
+	color:#fff;
+}
+a{
+	color:red;
+}
+#logo{
+	margin:0 auto;
+	margin:10px 0 10px 0;
+	width:181px;
+	height:112px;
+	position: relative;
+}
+#logo img{
+	margin:0 auto;
+	width: 181px;
+	height: 112px;
+	position: relative;
+}
+h1,h2,h3,h4,h5,h6{
+	color:#fff;
+}
+fieldset{
+	border:1px solid #ccc;
+	background-color:#f1f1f1;
+	color:rgb(68, 68, 68);
+}
+fieldset h1,fieldset h2,fieldset h3,fieldset h4,fieldset h5{
+	color:#000;
+}
+table tr td{
+	padding-left:20px;
+	padding-right:30px;
+	vertical-align: top;
+}
+
+legend{
+	background-color:#f1f1f1;
+	margin:2px 2px 2px 2px;
+}
+#myinfo td label{
+	font-size:12px;
+}
+
