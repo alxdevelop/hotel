@@ -52,7 +52,7 @@ class HomeController extends QuarkController
   
   public function connect($cadena){
   	
-  	$host = '201.120.27.198';
+  	$host = '0.0.0.0';
   	$port = 1;
   	$data = '';
   	
